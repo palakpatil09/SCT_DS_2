@@ -65,6 +65,7 @@ Open it in Power BI Desktop.
 Interact with the dashboard using filters, slicers, and visuals.
 
 📸 Dashboard Preview
+https://github.com/palakpatil09/SCT_DS_2/blob/main/dashboardpic.png
 
 🔮 Future Improvements
 
